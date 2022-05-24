@@ -1,0 +1,33 @@
+h1{
+  color:gray;
+  font-size:35px;
+  text-align:center;
+}
+h2{
+  color:gray;
+  font-size:30px;
+  text-align:center;
+}
+h3{
+  font-size:20px;
+}
+a:link{
+  color:black;
+}
+a:visited{
+  color:red;
+}
+a:hover{
+  color:blue
+}
+ul{
+  font-family:trebuchet;
+  text-align:justify;
+  font-size:20px;
+}
+img{
+  max-width:20%;
+  height:auto;
+  float:inline-start;
+  margin:5px;
+}
