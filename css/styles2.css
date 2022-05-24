@@ -1,0 +1,15 @@
+h1 {
+  color:turquoise;
+  font-size:35pt;
+  text-align:center;
+}
+ul{
+  font-size:20pt;
+  text-align:justify;
+}
+img {
+  max-width:40%;
+  height:auto;
+  float:inline-start;
+  margin:5px;
+}
